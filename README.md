@@ -7,5 +7,6 @@ Project features:
 - Capable of withstanding loads up to 1.5 A.
 - Voltages and currents are adjustable via mounted buttons on encasing and USB serial connection using the standard SCPI instrumentation protocol.
 - Sampled voltages and currents are displayed on an LCD touchscreen display using the SPI protocol.
+- Capable of disabling outputs once maximum desired load is reached. 
 
 <img src="https://github.com/victorg11/PC_Controlled_Power_Supply/blob/master/FrontView.jpg" s=10>
